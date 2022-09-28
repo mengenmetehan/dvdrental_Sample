@@ -1,4 +1,5 @@
 
+
 -- Ödev 3
 -- Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
@@ -18,8 +19,6 @@
 
  4)SELECT * FROM film
    WHERE rental_rate = 2.99 AND title LIKE 'C%' AND length > 90;
-
-
 
 
 
